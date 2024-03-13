@@ -59,5 +59,5 @@ echo "<br> Program Studi : $prodi";
 echo "<br> Skill Programming : " . join(', ' , $skills);
 echo "<br> Domisili : $domisili";
 echo "<br> Skor Skill : $skor_skill";
-echo "<br> Kategori Skill : $kategori_skill";
+echo "<br> Kategori Skill: $kategori_skill";
 echo "<br> Email : $email";
