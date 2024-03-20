@@ -45,12 +45,6 @@
                     </a>
                     <ul class="nav nav-treeview">
                         <li class="nav-item">
-                            <a href="Praktikum 1/form_nilai.php" class="nav-link">
-                                <i class="far fa-circle nav-icon"></i>
-                                <p>Praktikum 1</p>
-                            </a>
-                        </li>
-                        <li class="nav-item">
                             <a href="Praktikum 2/Praktikum 2/form_belanja.php" class="nav-link">
                                 <i class="far fa-circle nav-icon"></i>
                                 <p>Praktikum 2</p>
